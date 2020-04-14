@@ -1,3 +1,5 @@
 # hello-world
 
-First time using GitHub. Want to figure it out before my company's HackDay. 
+Projects to build out further:
+1. Oasis for Girls website
+2. African safari scavenger hunt site for kids 
